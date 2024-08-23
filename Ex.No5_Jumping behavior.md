@@ -29,7 +29,7 @@ pygame.display.set_caption("Simple Jumping with Image")
 black = (255, 255, 255)
 
 
-sprite_image_filename = "C:/Users/Pavithra.G/Downloads/cat.jpg"
+sprite_image_filename = "C:/Users/Abdul/Downloads/mario.jpg"
 sprite = pygame.image.load(sprite_image_filename)
 sprite_width, sprite_height = sprite.get_size()
 
