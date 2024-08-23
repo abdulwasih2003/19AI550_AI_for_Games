@@ -2,7 +2,7 @@
 ### DATE:  23/08/2024                                                                        
 ### REGISTER NUMBER : 212221240057
 ### AIM: 
-To write a python program to simulate Jumbing behavior. 
+To write a python program to simulate Jumping behavior. 
 ### Algorithm:
 1. Start the program
 2. Import the necessary modules
